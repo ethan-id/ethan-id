@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ethan-id: aka Ethan
 - 👀 I’m interested in: photography, graphic design, UI/UX, front-end development, and powerlifting.
-- 🌱 I’m currently learning: React/Redux
+- 🌱 I’m currently learning: [NextJS](https://nextjs.org/)
 - 📫 How to reach me: ehancock1648@gmail.com
 
 <!---
