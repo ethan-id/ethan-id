@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethan-id&theme=tokyonight"/>
+  </br></br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ethan-id&theme=tokyonight"/>
+  </br></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-id&theme=tokyonight"/>
 </p>
 
