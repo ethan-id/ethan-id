@@ -35,13 +35,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-id&theme=tokyonight"/>
 </p>
-
-
-
-- 👀 Specialties: UI/UX & front-end development
-- 🎲 Hobbies: Powerlifting, chess, pool.
-- 🌱 I’m currently learning: [NextJS](https://nextjs.org/)
-- 📫 How to reach me: contact@ethanhancock.org
+<p align="center">
+Check out my most recent <a href="https://medium.com/@ehancock1648/the-issue-with-leetcode-practice-4ef1e919131f">Medium article!</a>
+</p>
 
 <!---
 ethan-id/ethan-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
