@@ -6,7 +6,7 @@
 <h4 align="center">
   <a href="https://www.ethanhancock.org/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150"/></a>
   <a href="https://www.linkedin.com/in/ethanhancock23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/></a>
-  <a href="https://medium.com/@ehancock1648" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="150"/></a>
+  <a href="https://medium.com/@ehancock1648/subscribe" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="150"/></a>
   <a href="https://ko-fi.com/ethanid" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="115"/></a>
 </h4> 
 
