@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I’m @ethan-id: aka Ethan, I'm a full-stack software engineer
+  👋 Hi, I’m @ethan-id: aka Ethan, I'm a Full-Stack Software Engineer
 </h1> 
 
 
