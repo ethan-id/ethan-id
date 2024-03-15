@@ -33,7 +33,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-id&theme=tokyonight"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethan-id&theme=javascript&border_radius=20&background=45%2CEB5858%2C660BEB" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
 Check out my most recent <a href="https://medium.com/@ehancock1648/the-issue-with-leetcode-practice-4ef1e919131f">Medium article!</a>
