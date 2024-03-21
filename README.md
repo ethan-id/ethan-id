@@ -6,8 +6,6 @@
 <h4 align="center">
   <a href="https://www.ethanhancock.org/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="150"/></a>
   <a href="https://www.linkedin.com/in/ethanhancock23/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150"/></a>
-  <a href="https://medium.com/@ehancock1648/subscribe" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="150"/></a>
-  <a href="https://ko-fi.com/ethanid" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" width="115"/></a>
 </h4> 
 
 <p align="center">
@@ -34,9 +32,6 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ethan-id&theme=javascript&border_radius=20&background=45%2CEB5858%2C660BEB" alt="GitHub Streak" /></a>
-</p>
-<p align="center">
-Check out my most recent <a href="https://medium.com/@ehancock1648/the-issue-with-leetcode-practice-4ef1e919131f">Medium article!</a>
 </p>
 
 <!---
