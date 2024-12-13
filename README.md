@@ -12,6 +12,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ethan-id&theme=tokyonight" width="900"/>
 </p>
 
+<p align="center">
+  I'm currently learning Neovim, Angular, and NextJS   
+</p>
+
 <h1 align="center">
   Languages/Frameworks
 </h1>
