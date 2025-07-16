@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  I'm currently learning Neovim, Angular, and NextJS   
+  I'm currently learning Angular and .NET    
 </p>
